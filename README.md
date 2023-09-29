@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Peach-Iced-Tea
 - 👀 I’m interested in AI, Space and Science
 - 🌱 I’m currently learning Js, Python, Nuxt.js and Shell scripting
-- 💞️ I’m working on Portfolio website, web scraping
+- 💞️ I’m working on my portfolio website
 - 📫 How to reach me: peach.iced.tea.01@gmail.com <br>
 ## While youre here, why not enjoy a programing joke?
 ![Jokes Card](https://readme-jokes.vercel.app/api)
