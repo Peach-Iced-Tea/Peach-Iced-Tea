@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Peach-Iced-Tea
 - 👀 I’m interested in AI, Space and Science
-- 🌱 I’m currently learning Js, Python, Nuxt.js and Shell scripting
+- 🌱 I’m currently learning Assembly and Shell scripting
 - 💞️ I’m working on my portfolio website
 - 📫 How to reach me: peach.iced.tea.01@gmail.com <br>
 
