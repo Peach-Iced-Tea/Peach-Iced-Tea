@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Peach-Iced-Tea
 - 👀 I’m interested in AI, Space and Science
-- 🌱 I’m currently learning Assembly and Shell scripting
-- 💞️ I’m working on my portfolio website
+- 🌱 I’m currently learning SDL(C), Shell scripting and flet(py)
+- 💞️ I’m working on a game project for my university course
 - 📫 How to reach me: peach.iced.tea.01@gmail.com <br>
 
 
